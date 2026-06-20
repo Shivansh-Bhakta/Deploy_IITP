@@ -1,0 +1,118 @@
+{
+  "name": "Dr. Rahul Mishra",
+  "designation": "Assistant Professor",
+  "department": "Computer Science & Engineering",
+  "institution": "Indian Institute of Technology Patna",
+  "email": "rahul_mishra@iitp.ac.in",
+  "phone": "06115-233-(8)989",
+  "researchInterests": [
+    "Deep Learning",
+    "Fog Computing",
+    "Internet of Things (IoT)",
+    "Wireless Sensors Network (WSN)",
+    "Smart Sensing"
+  ],
+  "admin_password": "iitp@123",
+  "avatar": "1769377776340-Rahul Mishra.jpg",
+  "about": "Dr. Rahul Mishra is an Assistant Professor in the Department of Computer Science & Engineering at the Indian Institute of Technology Patna. His research interests lie at the intersection of Deep Learning, Fog Computing, Internet of Things (IoT), and Smart Sensing.",
+  "experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "DA-IICT Gandhinagar",
+      "duration": "Dec 2022 - Feb 2024"
+    },
+    {
+      "role": "Research Associate",
+      "organization": "IISc Bangalore",
+      "duration": "Sept 2022 - Dec 2022"
+    }
+  ],
+  "awards": [
+    "Got student conference grant sponsored by the IEEE Communications Society (ComSoc), INFOCOM 2021 and 2022"
+  ],
+  "professional_bodies": [
+    "IEEE Member"
+  ],
+  "books": [
+    {
+      "title": "AICTE Textbook on Design and Analysis of Algorithm (Link)",
+      "link": "https://ekumbh.aicte-india.org/book.php"
+    }
+  ],
+  "patents": [
+    {
+      "title": "Rahul Mishra, T. K. Maiti, A. Jain, P. Lalwani, and R. Shah, \"Racket Sports Activities Monitoring and Corrections using Grip Embedded Sensors and Smartphone\",  Patent filed (Patent no. 202411014828)"
+    }
+  ],
+  "publications": [
+    "R. Mishra and H. P. Gupta, \"Towards Understanding the Impact of Participant and its Wearable Devices in Federated Learning,\" in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2025.3530818. [pdf]",
+    "R. Mishra and H. P. Gupta, \"Fed-NL: A Federated Learning Approach to Suppress Noise in Participant Datasets to Reduce Communication Rounds for Convergence,\" in IEEE Transactions on Mobile Computing, [Accepted]. [pdf]",
+    "R. Mishra, H. P. Gupta, G. Banga and S. K. Das, \"Fed-RAC: Resource-Aware Clustering for Tackling Heterogeneity of Participants in Federated Learning,\" in IEEE Transactions on Parallel and Distributed Systems, vol. 35, no. 7, pp. 1207-1220, July 2024, doi: 10.1109/TPDS.2024.3379933.[pdf]",
+    "Rahul Mishra and Hari Prabhat Gupta. 2023. A Model Personalization-based Federated Learning Approach for Heterogeneous Participants with Variability in the Dataset. ACM Trans. Sen. Netw. 20, 1, Article 22 (January 2024), 28 pages. https://doi.org/10.1145/3629978.[pdf]",
+    "R. Mishra and H. P. Gupta, \"Designing and Training of Lightweight Neural Networks on Edge Devices Using Early Halting in Knowledge Distillation,\" in IEEE Transactions on Mobile Computing, vol. 23, no. 5, pp. 4665-4677, May 2024, doi: 10.1109/TMC.2023.3297026.[pdf]",
+    "Rahul Mishra and Hari Gupta. 2023. Transforming Large-Size to Lightweight Deep Neural Networks for IoT Applications. ACM Comput. Surv. 55, 11, Article 233 (November 2023), 35 pages. https://doi.org/10.1145/3570955.[pdf]",
+    "R. Mishra, H. P. Gupta, R. Kumar and T. Dutta, \"Leveraging Augmented Intelligence of Things to Enhance Lifetime of UAV-Enabled Aerial Networks,\" in IEEE Transactions on Industrial Informatics, vol. 19, no. 1, pp. 586-593, Jan. 2023, doi: 10.1109/TII.2022.3197410.[pdf]",
+    "R. Mishra, H. P. Gupta, P. Kumari, D. Y. Suh and M. J. Piran, \"A Task Offloading and Reallocation Scheme for Passenger Assistance Using Fog Computing,\" in IEEE Transactions on Network and Service Management, vol. 19, no. 3, pp. 3032-3047, Sept. 2022, doi: 10.1109/TNSM.2022.3172602.[pdf]",
+    "R. Mishra, A. Gupta and H. P. Gupta, \"Locomotion Mode Recognition Using Sensory Data with Noisy Labels: A Deep Learning Approach,\" in IEEE Transactions on Mobile Computing, vol. 22, no. 6, pp. 3460-3471, 1 June 2023, doi: 10.1109/TMC.2021.3135878.[pdf]",
+    "R. Mishra, A. Gupta, H. P. Gupta and T. Dutta, \"A Sensors Based Deep Learning Model for Unseen Locomotion Mode Identification using Multiple Semantic Matrices,\" in IEEE Transactions on Mobile Computing, vol. 21, no. 3, pp. 799-810, 1 March 2022, doi: 10.1109/TMC.2020.3015546.[pdf]",
+    "R. Mishra, H. P. Gupta and T. Dutta, \"A Road Health Monitoring System Using Sensors in Optimal Deep Neural Network,\" in IEEE Sensors Journal, vol. 21, no. 14, pp. 15527-15534, 15 July15, 2021, doi: 10.1109/JSEN.2020.3005998.[pdf]",
+    "R. Mishra, H. P. Gupta and T. Dutta, \"Analysis, Modeling, and Representation of COVID-19 Spread: A Case Study on India,\" in IEEE Transactions on Computational Social Systems, vol. 8, no. 4, pp. 964-973, Aug. 2021, doi: 10.1109/TCSS.2021.3077701.[pdf]",
+    "R. Mishra, A. Soni, A. Jain, P. Lalwani and R. Shah, \"Optimizing Activity Recognition Through Dominant Axis Identification in Inertial Sensors,\" in IEEE Sensors Letters, 2024 doi: 10.1109/LSENS.2024.3523334.[pdf]",
+    "Pandey, A.D.… Mishra, R. et al. A machine learning-based overlay technique for improving the mechanism of road traffic prediction using global positioning system. Innov. Infrastruct. Solut. 9, 300 (2024). https://doi.org/10.1007/s41062-024-01622-2.(Corresponding author)[pdf]",
+    "P. Anand, S. Jain and R. Mishra, \"Huber SVR-Based Hybrid Models for Significant Wave Height Forecasting Using Buoy Sensors,\" in IEEE Sensors Letters, vol. 7, no. 12, pp. 1-4, Dec. 2023, Art no. 6010104, doi: 10.1109/LSENS.2023.3333967.[pdf]",
+    "R. Kumar, H. P. Gupta, R. Mishra and S. Pandey, \"Machine Learning-Based Interference Mitigation in Long-Range Networks for High-Ceiling Smart Buildings,\" in IEEE Access, vol. 11, pp. 96103-96118, 2023, doi: 10.1109/ACCESS.2023.3309303.(Corresponding author)[pdf]",
+    "C. Singh, R. Mishra, H. P. Gupta and G. Banga, \"A Federated Learning-Based Patient Monitoring System in Internet of Medical Things,\" in IEEE Transactions on Computational Social Systems, vol. 10, no. 4, pp. 1622-1628, Aug. 2023, doi: 10.1109/TCSS.2022.3228965.(Corresponding author)[pdf]",
+    "R. Kumar, R. Mishra and H. P. Gupta, \"A Federated Learning Approach with Imperfect Labels in LoRa-Based Transportation Systems,\" in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 11, pp. 13099-13107, Nov. 2023, doi: 10.1109/TITS.2023.3241765.(Corresponding author)[pdf]",
+    "Soni, A., Mishra, R. Fair-select: a federated learning approach to ensure fairness in selection of participants. Multimedia (2024). https://doi.org/10.1007/s11042-024-20476-5.(Corresponding author)[pdf]",
+    "R. Kumar, R. Mishra, H. P. Gupta and T. Dutta, \"Smart Sensing for Agriculture: Applications, Advancements, and Challenges,\" in IEEE Consumer Electronics Magazine, vol. 10, no. 4, pp. 51-56, 1 July 2021, doi: 10.1109/MCE.2021.3049623.(Corresponding author)[pdf]",
+    "S. Chopade, H. P. Gupta, R. Mishra, P. Kumari and T. Dutta, \"An Energy-Efficient River Water Pollution Monitoring System in Internet of Things,\" in IEEE Transactions on Green Communications and Networking, vol. 5, no. 2, pp. 693-702, June 2021, doi: 10.1109/TGCN.2021.3062470.(Corresponding author)[pdf]",
+    "P. Kumari, R. Mishra, H. P. Gupta, T. Dutta and S. K. Das, \"An Energy Efficient Smart Metering System Using Edge Computing in LoRa Network,\" in IEEE Transactions on Sustainable Computing, vol. 7, no. 4, pp. 786-798, 1 Oct.-Dec. 2022, doi: 10.1109/TSUSC.2021.3049705.[pdf]",
+    "C. Singh, P. Kumari, R. Mishra, H. P. Gupta and T. Dutta, \"Secure Industrial IoT Task Containerization with Deadline Constraint: A Stackelberg Game Approach,\" in IEEE Transactions on Industrial Informatics, vol. 18, no. 12, pp. 8674-8681, Dec. 2022, doi: 10.1109/TII.2022.3156647.(Corresponding author) [pdf]",
+    "S. Chopade, H. P. Gupta, R. Mishra, A. Oswal, P. Kumari and T. Dutta, \"A Sensors-Based River Water Quality Assessment System Using Deep Neural Network,\" in IEEE Internet of Things Journal, vol. 9, no. 16, pp. 14375-14384, 15 Aug.15, 2022, doi: 10.1109/JIOT.2021.3078892. (Corresponding author)[pdf]",
+    "A. Chaudhary, R. Mishra, H. P. Gupta and K. K. Shukla, \"Jointly Prediction of Activities, Locations, and Starting Times for Isolated Elderly People,\" in IEEE Journal of Biomedical and Health Informatics, vol. 27, no. 5, pp. 2288-2295, May 2023, doi: 10.1109/JBHI.2021.3121296. [pdf]",
+    "P. Kumari, R. Mishra and H. P. Gupta, \"A Knowledge Distillation-Based Transportation System for Sensory Data Sharing Using LoRa,\" in IEEE Sensors Journal, vol. 21, no. 22, pp. 25315-25322, 15 Nov.15, 2021, doi: 10.1109/JSEN.2020.3025835. [pdf]",
+    "C. Singh, R. Mishra, H. P. Gupta and P. Kumari, \"The Internet of Drones in Precision Agriculture: Challenges, Solutions, and Research Opportunities,\" in IEEE Internet of Things Magazine, vol. 5, no. 1, pp. 180-184, March 2022, doi: 10.1109/IOTM.006.2100100. (Corresponding author) [pdf]",
+    "S. Saraswat, V. Agarwal, H. P. Gupta, Rahul Mishra, A. Gupta, and T. Dutta, “Challenges and solutions in software-defined networking: A survey,” Journal of Network and Computer Applications, vol. 141, pp. 23-58, 2019. (Corresponding author) [pdf]",
+    "A. Tripathi, H. P. Gupta, T. Dutta, Rahul Mishra, K. K. Shukla, and S. Jit, “Coverage and Connectivity in WSNs: A Survey, Research Issues and Challenges”, IEEE Access, vol 6, pp. 26971-26992, 2018. [pdf]"
+  ],
+  "conferences": [
+    "Rahul Mishra and H.P. Gupta, \"i-Care: A Multi-Modal Data Integration Approach for Real-time Surveillance and Voice Assistance to Improve Infant Care\", 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2024 ), Nov 7 - 8, 2024 in Hangzhou, China   (Accepted Regular Paper).",
+    "Rahul Mishra, and P. Anand, \"On Demand Reliability in the Internet of Things Enabled Sensors Networks\" 20th International Wireless Communications & Mobile Computing Conference (IWCMC 2024), May 27-31, 2024, in Ayia Napa, Cyprus. (Regular paper, Core B conference)",
+    "Rahul Mishra and H.P. Gupta, \"A Federated Learning Approach to Minimize Communication Rounds Using Noise Rectification\" IEEE Wireless Communications and Networking Conference (WCNC), April 21 - 24, 2024 in Dubai, UAE   (Accepted).",
+    "Rahul Mishra, P. Kumari, H. P. Gupta, Diksha, T. Dutta, Doug Y. Suh and M. Jalil Piran, \"A Game Theory-based Transportation System using Fog Computing for Passenger Assistance\", in Proceedings of IEEE WoWMoM 2021 (Regular paper, Core A conference).",
+    "Rahul Mishra, S Godhaneeya, A. Soni, \"Minimizing Intra-Interference in LoRaWAN for Seamless Connectivity in Ubiquitous Networking\", COMSNETS 2024 MINDS Workshop (Accepted).",
+    "A K Shina, Rahul Mishra, and H.P. Gupta, \"Your Gesture Can Prevent Oops Moments in Online Meetings\",  International Conference on Embedded Wireless Systems and Networks (EWSN), Abu Dhabi, United Arab Emirates, December 10-13, 2024. (Accepted Poster).",
+    "Rahul Mishra, H. P. Gupta, and T. Dutta, \"Noise-Resilient Federated Learning: Suppressing Noisy Labels in the Local Datasets of Participants\", in Proceedings of IEEE INFOCOM 2022 (Poster,  Core A* conference)",
+    "P. Kumari, H. P. Gupta, Rahul Mishra,  and Sajal K. Das, \"An Energy-Efficient Smart Space System using LoRa Network with Deadline and Security Constraints\", in Proceedings of ACM MSWIM, 2021 (Regular paper, Core A conference).",
+    "Rahul Mishra, H. P. Gupta, and T. Dutta, \"A Network Resource Aware Federated Learning Approach using Knowledge Distillation\", in Proceedings of IEEE INFOCOM 2021 (Poster,  Core A* conference).",
+    "Rahul Mishra, H. P. Gupta, and T. Dutta, \"Poster Abstract: Teacher, Trainee, and Student based Knowledge Distillation Technique for Monitoring Indoor Activities \", in Proceedings of ACM SenSys 2020 (Poster,  Core A* conference).",
+    "Rahul Mishra, H. P. Gupta, and T. Dutta, \"Unseen Locomotion Mode Detection Problems using Inertial Sensors\", in Proceedings of IEEE COMSNETS, pp. 1-3, 2021 (PhD-forum).",
+    "A. Gupta, R. Pal, Rahul Mishra, H. P. Gupta, T. Dutta, and P. Hirani, \"Game theory based early classification of rivers using time series data,” in Proceedings of IEEE WF-IoT, pp. 686-691, 2019.",
+    "A. Gupta, H. P. Gupta, P. Kumari, Rahul Mishra, S. Saraswat, and T. Dutta, “A real-time precision agriculture monitoring system using mobile sink in WSNs,\" in Proceedings of IEEE ANTS, pp. 1-5, 2018.",
+    "Rahul Mishra, P. Verma and R. Kumar \"Gateway Discovery in MANET using Machine Learning and Soft Computing: A Survey\", in Proceedings of International Conference on Innovations in Information Embedded and Communication Systems (ICIIECS), pp. 221-227, 2017.",
+    "Rahul Mishra and D. Singh \"Fault-Tolerant Energy Efficient Power Management System for Smart Room\", in Proceedings of International Conference on Advanced Computing and Software Engineering (ICACSE), pp. 1-4, 2018.",
+    "16 S. Sahu, A. K. Sinha, and Rahul Mishra, \"When You Come In, You Sit, Stand, or Walk: Leveraging RSSI for Tracking and Control in Ubiquitous Systems\" in  Proceedings of IEEE India Council International Conference (INDICON), 2024"
+  ],
+  "courses": [
+    {
+      "code": "CS244",
+      "name": "Introduction to Data Science"
+    },
+    {
+      "code": "CS2101",
+      "name": "Algorithms"
+    },
+    {
+      "code": "CS6109",
+      "name": "Drone Data Processing"
+    },
+    {
+      "code": "CS2206",
+      "name": "Data Analysis and Visualization"
+    },
+    {
+      "code": "CS2204",
+      "name": "IT Workshop"
+    }
+  ]
+}
