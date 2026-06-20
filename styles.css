@@ -410,7 +410,8 @@ section {
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: flex-start;
+    gap: 0.75rem;
     transition: all 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
